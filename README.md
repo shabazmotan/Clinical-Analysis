@@ -1,1 +1,1 @@
-# Psmaceuticals
+# Pharmaceuticals
