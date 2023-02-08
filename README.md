@@ -6,7 +6,6 @@ The purpose of this study was to compare the performance of Pymaceuticals’ dru
 
 <img width="596" alt="Screenshot 2023-02-08 at 11 24 21 AM" src="https://user-images.githubusercontent.com/119978382/217606401-df0d75a7-f282-481d-9327-949abe0ecb0c.png">
 
-<img width="451" alt="Screenshot 2023-02-08 at 11 24 28 AM" src="https://user-images.githubusercontent.com/119978382/217606418-c08187f1-43a2-49b4-b168-1cef224c83e4.png">
 
 <img width="445" alt="Screenshot 2023-02-08 at 11 24 34 AM" src="https://user-images.githubusercontent.com/119978382/217606441-290d5b8b-0a8d-445d-8220-1a53936246a8.png">
 
@@ -18,10 +17,10 @@ The purpose of this study was to compare the performance of Pymaceuticals’ dru
 
 <img width="517" alt="Screenshot 2023-02-08 at 11 25 08 AM" src="https://user-images.githubusercontent.com/119978382/217606550-411fd7f8-5f92-4b8f-a280-7f1ea4060d47.png">
 
+<img width="625" alt="Screenshot 2023-02-08 at 11 25 13 AM" src="https://user-images.githubusercontent.com/119978382/217606655-ec15246f-cd9a-4c44-993c-ef9c6f873772.png">
+
 <img width="1134" alt="Screenshot 2023-02-08 at 11 25 59 AM" src="https://user-images.githubusercontent.com/119978382/217606582-ab31ef9a-da36-4e89-9e13-94e53ace76e2.png">
 
 <img width="1138" alt="Screenshot 2023-02-08 at 11 26 25 AM" src="https://user-images.githubusercontent.com/119978382/217606611-42476450-1204-4ae0-894a-51713b3541e5.png">
-
-<img width="625" alt="Screenshot 2023-02-08 at 11 25 13 AM" src="https://user-images.githubusercontent.com/119978382/217606655-ec15246f-cd9a-4c44-993c-ef9c6f873772.png">
 
 <img width="1142" alt="Screenshot 2023-02-08 at 11 25 38 AM" src="https://user-images.githubusercontent.com/119978382/217606688-f1597ca5-4752-4754-b484-4c6ea57318fa.png">
