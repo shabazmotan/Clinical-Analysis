@@ -1,6 +1,6 @@
 Summary 
 
-The purpose was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens. Generated all of the tables and figures needed for the technical report of the clinical study. 
+Compared the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens. Generated all of the tables and figures needed for the technical report of the clinical study. 
 
 <img width="596" alt="Screenshot 2023-02-08 at 11 23 47 AM" src="https://user-images.githubusercontent.com/119978382/217606378-fa86066c-217c-4b6b-9aa1-a1c76f314e8f.png">
 
