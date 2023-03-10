@@ -1,4 +1,4 @@
-Summary 
+# Summary 
 
 Compared the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens. Generated all of the tables and figures needed for the technical report of the clinical study. 
 
